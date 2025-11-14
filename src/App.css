@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1{
+  font-weight: bold;
+}
+
+.container{
+  background-color: white;
+  width: 600px;
+  padding: 0 0 50px 0;
+  border: 3px dashed black;
+  border-radius: 10px;
+}
+
+ol{
+  width: 300px;
+  list-style-position: inside;
+  text-align: justify;
+  display: table;
+  margin: 0 auto;
+}
+
+.forms{
+  text-align: justify;
+  display: table;
+  margin: 0 auto;
+}
+
+
+body{
+  background-color: pink;
+}
